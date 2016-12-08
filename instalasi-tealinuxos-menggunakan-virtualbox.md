@@ -13,7 +13,8 @@ Name 	: (Diisi bebas)
 
 Type	: Linux
 
-Version	: Linux 2.6 / 3.x / 4.x (64-bit/32-bit) 
+Version	: Linux 2.6 / 3.x / 4.x (64-bit/32-bit)
+
 Menyesuaikan dengan .ISO TeaLinuxOS yang anda download dan version Laptop / PC anda 64-bit atau 32-bit.
 ![Tampilan virtualbox ketika klik New] (album/virtualbox/virtualboxnew.png)
 
