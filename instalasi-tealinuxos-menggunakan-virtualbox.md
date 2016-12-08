@@ -8,9 +8,13 @@ Langkah pertama 	: Buka VirtualBox
 ![Ketika membuka VirtualBox] (album/virtualbox/virtualboxhome.png)
 
 Langkah kedua 		: Klik tombol New, dan akan muncul tampilan seperti dibawah.
+
 Name 	: (Diisi bebas)
+
 Type	: Linux
-Version	: Linux 2.6 / 3.x / 4.x (64-bit/32-bit) menyesuaikan dengan .ISO TeaLinuxOS yang anda download dan version Laptop / PC anda 64-bit atau 32-bit.
+
+Version	: Linux 2.6 / 3.x / 4.x (64-bit/32-bit) 
+Menyesuaikan dengan .ISO TeaLinuxOS yang anda download dan version Laptop / PC anda 64-bit atau 32-bit.
 ![Tampilan virtualbox ketika klik New] (album/virtualbox/virtualboxnew.png)
 
 Langkah ketiga		: Setelah klik Next anda akan menemui tampilan seperti dibawah. Langsung klik Next lagi bisa ataupun anda bisa mengisi memory size dengan jumlah ram yang anda punya.
