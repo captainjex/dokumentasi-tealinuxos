@@ -1,1 +1,1 @@
-Tutorial instalasi TeaLinuxOS di virtualbox
+Berkas instalasi TeaLinuxOS di VirtualBox
